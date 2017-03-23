@@ -1,3 +1,6 @@
 [submodule "component-level-0a"]
 	path = component-level-0a
 	url = https://github.com/naleksijevic/component-level-0a.git
+[submodule "component-level-0b"]
+	path = component-level-0b
+	url = https://github.com/naleksijevic/component-level-1aa.git
