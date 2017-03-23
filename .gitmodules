@@ -4,3 +4,6 @@
 [submodule "component-level-0b"]
 	path = component-level-0b
 	url = https://github.com/naleksijevic/component-level-1aa.git
+[submodule "component-level-0c"]
+	path = component-level-0c
+	url = https://github.com/naleksijevic/component-level-1aa.git
